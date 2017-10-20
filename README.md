@@ -1,4 +1,5 @@
 # 2d-triangle-transformation
+in opengl using glfw.
 the four arrows move the triangle up,down,left and right.
 the "R" letter rotate the triangle with clockwise.
 the "L" letter rotate the triangle anti clockwise.
